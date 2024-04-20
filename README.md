@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter<br>Dart<br>Python<br>C#<br>Embedded C<br>Stm32<br>Embedded Systems<br>IoT<br>Mobile Application Development<br>Esp32<br>Desktop Application Development<br>Rocket Avionic Systems<br>Ios<br>Android
+Flutter<br>Dart<br>Node.js<br>Python<br>C#<br>Embedded C<br>Stm32<br>Embedded Systems<br>IoT<br>Mobile Application Development<br>Esp32<br>Desktop Application Development<br>Rocket Avionic Systems<br>Ios<br>Android
 
 
 ## 🌐 Socials:
