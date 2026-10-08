@@ -1,53 +1,65 @@
-<a href="https://alikperislam.appinionsoft.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="Alikper İslam, Flutter Developer at PITON Technology" src="./assets/hero-light.svg" width="100%">
-  </picture>
-</a>
+<a href="https://alikperislam.appinionsoft.com"><img src="./assets/hero.svg" alt="Alikper İslam, M.Sc. Mid. Flutter Developer at PITON Technology" width="100%"></a>
 
 <br>
 
-I build cross-platform mobile apps with Flutter at **PITON Technology** in Eskişehir. Most days that means feature-based MVVM, Riverpod or Provider for state, clean networking with Dio, and the small UI details that make an app feel finished. When a problem deserves a small, focused fix, I publish it as a package on pub.dev.
+I'm a Mid. Flutter Developer at **PITON Technology** in Eskişehir. I build Android and iOS apps on **Clean Architecture**: a `domain` layer with models and repository contracts, a `data` layer with DTOs and the repository implementations, and a `presentation` layer split into pages, providers, states and widgets. For state management I use **Riverpod** and **Bloc**.
 
-Before mobile became my full-time work, I wrote software for embedded systems and rocket avionics: telemetry, ground stations and test rigs. That background still shapes how I think about reliability and real-time data.
+Outside of work I run **AppinionSoft**, where I design, build and publish my own products. Seven of my apps are live on Google Play and the App Store, and two of my packages are on pub.dev.
 
 <br>
 
-### Published on pub.dev
+### Shipped to the stores
+
+<a href="https://play.google.com/store/apps/details?id=com.appinionsoft.tepsio"><img src="./assets/tepsio.svg" alt="Tepsio: QR menus, real-time orders and staff management for restaurants and cafés" width="100%"></a>
 
 <p>
-  <a href="https://pub.dev/packages/call_sound_controller"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/call-sound-controller-dark.svg"><img alt="call_sound_controller: read and set the voice-call volume on Android from Flutter" src="./assets/cards/call-sound-controller-light.svg" width="49%"></picture></a>
-  <a href="https://pub.dev/packages/simple_dial_code"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/simple-dial-code-dark.svg"><img alt="simple_dial_code: zero-dependency Dart lookup between ISO country codes and dial codes" src="./assets/cards/simple-dial-code-light.svg" width="49%"></picture></a>
-</p>
-
-### Selected work
-
-<p>
-  <a href="https://github.com/alikperislam/ecommerce_study_case_flutter_mvvm_riverpod"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/catalog-app-dark.svg"><img alt="Catalog app: Flutter, feature-based MVVM with Riverpod, Dio, GetIt, go_router and Hive" src="./assets/cards/catalog-app-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/secure-auth-app-dark.svg"><img alt="Secure auth app: Flutter, sign-up, sign-in and mail verification with AES-256 encryption" src="./assets/cards/secure-auth-app-light.svg" width="49%"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=enguide.mobile.app"><img src="./assets/apps/enguide.svg" alt="Enguide: English exercises for all levels, on Android and iOS" width="49%"></a>
+  <a href="https://play.google.com/store/apps/details?id=talkntrip.mobile.app"><img src="./assets/apps/talkntrip.svg" alt="talkNtrip: speak your own language and the other person hears theirs" width="49%"></a>
 </p>
 <p>
-  <a href="https://github.com/alikperislam/node-js-mobile-app-secure-authentication-backend"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/auth-backend-dark.svg"><img alt="Auth API: Node.js and Express backend with JWT, bcrypt, MySQL and mail verification" src="./assets/cards/auth-backend-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/alikperislam/flutter_esp32_smart_room_iot_mobile_app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/smart-room-dark.svg"><img alt="Smart room: real-time ESP32 sensor data visualized and automated in a Flutter app" src="./assets/cards/smart-room-light.svg" width="49%"></picture></a>
+  <a href="https://play.google.com/store/apps/details?id=cappadocia.vpn.mobile.app"><img src="./assets/apps/cappadocia-vpn.svg" alt="Cappadocia VPN: a VPN app for a private, secure connection on Android" width="49%"></a>
+  <a href="https://apps.apple.com/app/id6739890036"><img src="./assets/apps/bg-cleaner.svg" alt="Bg Cleaner: AI background removal for photos" width="49%"></a>
+</p>
+
+<sub>Also on Google Play: <a href="https://play.google.com/store/apps/details?id=benim.deprem.uygulama">Islıkçı</a> and <a href="https://play.google.com/store/apps/details?id=hesap.makinesi.uygulamasi">Calculator</a>.</sub>
+
+<br>
+
+### How I build apps
+
+<img src="./assets/architecture.svg" alt="Clean Architecture folder layout: presentation (pages, providers, states, widgets) depends on domain (models, repositories); data (DTOs, repositories) implements the domain contracts" width="100%">
+
+Dependencies point inward. `presentation` and `data` both depend on `domain`, never the other way around, so business rules stay independent of the UI and I can swap an API or a cache without touching a single page.
+
+<br>
+
+### Open source on pub.dev
+
+<p>
+  <a href="https://pub.dev/packages/call_sound_controller"><img src="./assets/cards/call-sound-controller.svg" alt="call_sound_controller: read and set the voice-call volume on Android from Flutter" width="49%"></a>
+  <a href="https://pub.dev/packages/simple_dial_code"><img src="./assets/cards/simple-dial-code.svg" alt="simple_dial_code: zero-dependency Dart lookup between ISO country codes and dial codes" width="49%"></a>
+</p>
+
+### More on GitHub
+
+<p>
+  <a href="https://github.com/alikperislam/ecommerce_study_case_flutter_mvvm_riverpod"><img src="./assets/cards/catalog-app.svg" alt="Catalog app: Riverpod, Dio, go_router and Hive" width="49%"></a>
+  <a href="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider"><img src="./assets/cards/secure-auth-app.svg" alt="Secure auth app with AES-256 encryption and mail verification" width="49%"></a>
+</p>
+<p>
+  <a href="https://github.com/alikperislam/node-js-mobile-app-secure-authentication-backend"><img src="./assets/cards/auth-backend.svg" alt="Auth API: Node.js and Express with JWT, bcrypt and MySQL" width="49%"></a>
+  <a href="https://github.com/alikperislam/flutter_esp32_smart_room_iot_mobile_app"><img src="./assets/cards/smart-room.svg" alt="Smart room: real-time ESP32 sensor data in Flutter" width="49%"></a>
 </p>
 
 ### Toolbox
 
-```yaml
-mobile:    [Flutter, Dart, Android, iOS]
-state:     [Riverpod, Provider, GetX]
-plumbing:  [Dio, GetIt, go_router, Hive, Easy Localization]
-backend:   [Firebase, Node.js, Express, MySQL, JWT]
-design:    [Figma]
-
-# still in my repos, no longer the headline
-earlier:   [C#, .NET, Python, C/C++]
-```
+<img src="./assets/toolbox.svg" alt="Toolbox: Flutter, Dart, Android, iOS; Clean Architecture, Riverpod, Bloc; Dio, REST, Firebase, Hive; Node.js, Express, MySQL, JWT; Google Play, App Store, Figma, Git" width="100%">
 
 <details>
 <summary><b>Before mobile: embedded systems and rocket avionics</b></summary>
 <br>
+
+Before Flutter became my full-time work, I wrote software for embedded systems and rocket avionics. That background still shapes how I think about reliability and real-time data.
 
 - [Teknofest 2022 ground station](https://github.com/alikperislam/Teknofest2022_RoketVeriPaketi_HakemYerIstasyonu): rocket telemetry packet and the referee ground station software
 - [Engine thrust measurement](https://github.com/alikperislam/rocket_engine_thrust_measurement_system_cpp_lora_hx711_loadcell): load cell readings (HX711) sent over LoRa
@@ -60,6 +72,12 @@ earlier:   [C#, .NET, Python, C/C++]
 
 <br>
 
-### Elsewhere
+### Get in touch
 
-You can find more of my work on my [portfolio](https://alikperislam.appinionsoft.com), read my notes on [Medium](https://medium.com/@developer.alikper), or reach out on [LinkedIn](https://www.linkedin.com/in/alikperislam).
+<p>
+  <a href="https://alikperislam.appinionsoft.com"><img src="./assets/buttons/portfolio.svg" alt="Portfolio" height="48"></a>
+  <a href="https://www.linkedin.com/in/alikperislam"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="https://medium.com/@developer.alikper"><img src="./assets/buttons/medium.svg" alt="Medium" height="48"></a>
+  <a href="https://play.google.com/store/apps/dev?id=6790604053761589016"><img src="./assets/buttons/google-play.svg" alt="Google Play" height="48"></a>
+  <a href="https://apps.apple.com/developer/alikper-islam/id1787448064"><img src="./assets/buttons/app-store.svg" alt="App Store" height="48"></a>
+</p>
