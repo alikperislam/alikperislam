@@ -1,27 +1,65 @@
-# 💫 About Me:
-Flutter<br>Dart<br>Node.js<br>Python<br>C#<br>Embedded C<br>Stm32<br>Mobile Application Development<br>backend<br>Embedded Systems<br>IoT<br>Esp32<br>Desktop Application Development<br>Rocket Avionic Systems<br>Ios<br>Android
+<a href="https://alikperislam.appinionsoft.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img alt="Alikper İslam, Flutter Developer at PITON Technology" src="./assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alikperislam) [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=medium&logoColor=grey)](https://medium.com/@developer.alikper) 
+I build cross-platform mobile apps with Flutter at **PITON Technology** in Eskişehir. Most days that means feature-based MVVM, Riverpod or Provider for state, clean networking with Dio, and the small UI details that make an app feel finished. When a problem deserves a small, focused fix, I publish it as a package on pub.dev.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alikperislam&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alikperislam&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alikperislam&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Before mobile became my full-time work, I wrote software for embedded systems and rocket avionics: telemetry, ground stations and test rigs. That background still shapes how I think about reliability and real-time data.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alikperislam&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Published on pub.dev
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alikperislam&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+<p>
+  <a href="https://pub.dev/packages/call_sound_controller"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/call-sound-controller-dark.svg"><img alt="call_sound_controller: read and set the voice-call volume on Android from Flutter" src="./assets/cards/call-sound-controller-light.svg" width="49%"></picture></a>
+  <a href="https://pub.dev/packages/simple_dial_code"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/simple-dial-code-dark.svg"><img alt="simple_dial_code: zero-dependency Dart lookup between ISO country codes and dial codes" src="./assets/cards/simple-dial-code-light.svg" width="49%"></picture></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=alikperislam&icon=5&color=1)](https://visitcount.itsvg.in)
+### Selected work
 
-<!-- Proudly created with GPRM  ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://github.com/alikperislam/ecommerce_study_case_flutter_mvvm_riverpod"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/catalog-app-dark.svg"><img alt="Catalog app: Flutter, feature-based MVVM with Riverpod, Dio, GetIt, go_router and Hive" src="./assets/cards/catalog-app-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/alikperislam/flutter-end-to-end-secure-authentication-mobile-app-mvvm-provider"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/secure-auth-app-dark.svg"><img alt="Secure auth app: Flutter, sign-up, sign-in and mail verification with AES-256 encryption" src="./assets/cards/secure-auth-app-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/alikperislam/node-js-mobile-app-secure-authentication-backend"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/auth-backend-dark.svg"><img alt="Auth API: Node.js and Express backend with JWT, bcrypt, MySQL and mail verification" src="./assets/cards/auth-backend-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/alikperislam/flutter_esp32_smart_room_iot_mobile_app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/smart-room-dark.svg"><img alt="Smart room: real-time ESP32 sensor data visualized and automated in a Flutter app" src="./assets/cards/smart-room-light.svg" width="49%"></picture></a>
+</p>
+
+### Toolbox
+
+```yaml
+mobile:    [Flutter, Dart, Android, iOS]
+state:     [Riverpod, Provider, GetX]
+plumbing:  [Dio, GetIt, go_router, Hive, Easy Localization]
+backend:   [Firebase, Node.js, Express, MySQL, JWT]
+design:    [Figma]
+
+# still in my repos, no longer the headline
+earlier:   [C#, .NET, Python, C/C++]
+```
+
+<details>
+<summary><b>Before mobile: embedded systems and rocket avionics</b></summary>
+<br>
+
+- [Teknofest 2022 ground station](https://github.com/alikperislam/Teknofest2022_RoketVeriPaketi_HakemYerIstasyonu): rocket telemetry packet and the referee ground station software
+- [Engine thrust measurement](https://github.com/alikperislam/rocket_engine_thrust_measurement_system_cpp_lora_hx711_loadcell): load cell readings (HX711) sent over LoRa
+- [Wireless engine ignition](https://github.com/alikperislam/rocket_engine_wireless_ignition_system_with_wifi_cpp_firebase): Wi-Fi ignition system controlled through Firebase
+- [6-DOF rocket direction control](https://github.com/alikperislam/flutter_stm32_6dof_rocket_direction_control_code): STM32 and a Flutter companion app
+- [IoT communication project](https://github.com/alikperislam/IoT_embedded_software_and_communication_project): embedded software and device communication in Python and C++
+- [C# desktop apps](https://github.com/alikperislam?tab=repositories&language=c%23): a dozen-plus Windows apps from 2021, including a [chip tuning tool](https://github.com/alikperislam/Arac_Yazilim_Sistemleri_ChipTuning_MasaustuUygulama)
+
+</details>
+
+<br>
+
+### Elsewhere
+
+You can find more of my work on my [portfolio](https://alikperislam.appinionsoft.com), read my notes on [Medium](https://medium.com/@developer.alikper), or reach out on [LinkedIn](https://www.linkedin.com/in/alikperislam).
